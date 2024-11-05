@@ -2,8 +2,6 @@
 
 # Fibonacci Circuit: Plonk, HyperPlonk & Gemini Implementations
 
-This example showcases the Fibonacci circuit using two distinct backend implementations: **HyperPlonk** and **Gemini**.
-
 This project showcases the Fibonacci circuit using three distinct backend implementations: **Plonk**, **HyperPlonk** and **Gemini**.
 
 - **Plonk** uses the basic backend of Halo2, relying on FFT for efficient proof generation.
